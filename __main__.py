@@ -3,9 +3,13 @@ from pathlib import PurePath
 
 
 def main():
+    
+    #Configure these
     username = "ECP"
-    password = "temp_password"
-    core_IP = "192.168.180.151"
+    password = "ambu&kZLmXA%"
+    core_IP = "10.101.55.48"
+    
+    
     cred_json = {
         "username": username,
         "password": password
